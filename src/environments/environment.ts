@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  urlAddress: 'http://accountowner.herokuapp.com'
+  urlAddress: 'https://accountowner.herokuapp.com'
 };
 
 /*
